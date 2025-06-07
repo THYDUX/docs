@@ -5,7 +5,6 @@ cuid: cm7g3sll5000a09la2u0oh4mn
 slug: thydux-revolutionizing-crypto-wallets-with-decentralization
 canonical: https://thydux.kit.com/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740221341944/82e1cb12-a95e-452d-b65b-a92528e98d9c.jpeg
-tags: crypto-blockchain-web3-decentralization-cryptocurrency-wallet-fintech-ethereum-defi-technology-startup-security
 
 ---
 
